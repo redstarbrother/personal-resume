@@ -245,7 +245,8 @@ onUnmounted(() => {
 }
 
 .terminal-window {
-  width: 500px;
+  width: 600px;
+  min-height: 400px;
   background: rgba(255, 255, 255, 0.95);
   border-radius: 8px;
   box-shadow: 0 20px 50px rgba(0,0,0,0.3);
