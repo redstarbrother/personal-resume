@@ -32,7 +32,7 @@ body {
 .container {
   width: 100vw;
   height: 100vh;
-  background: url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=2070&auto=format&fit=crop') no-repeat center center/cover;
+  background: url('/bgi.jpg') no-repeat center center/cover;
   display: flex;
   flex-direction: column;
   justify-content: center;

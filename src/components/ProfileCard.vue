@@ -1,10 +1,10 @@
 <template>
   <div class="profile-card">
     <div class="avatar-container">
-      <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Felix" alt="Avatar" class="avatar" />
+      <img src="/avatar.jpg" alt="Avatar" class="avatar" />
     </div>
     <div class="profile-info">
-      <h2 class="name">I'm N0tsss <span class="cursor">|</span></h2>
+      <h2 class="name">I'm RedStar<span class="cursor">|</span></h2>
       <div class="divider"></div>
       <div class="description">
         <p>一条咸鱼 🎣</p>
